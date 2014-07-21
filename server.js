@@ -9,6 +9,6 @@ app.use(express.methodOverride());
 app.use(app.router);
 app.use(express.static(__dirname + '/public'));
 
-server = app.listen(process.env.PORT || 8000, function() {
+server = app.listen(process.env.PORT || 8080, function() {
 	console.log('Listening on port %d', server.address().port);
 });
