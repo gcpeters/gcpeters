@@ -1,0 +1,25 @@
+{
+  "name": "gcpeters",
+  "version": "0.0.1",
+  "authors": [
+    "= <gcpeters@gmail.com>"
+  ],
+  "description": "First version of my website",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "gcpeters.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.4"
+  }
+}

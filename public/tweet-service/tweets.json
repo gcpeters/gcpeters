@@ -1,0 +1,3177 @@
+[
+   {
+    "created_at": "Sun Jul 20 16:00:51 +0000 2014",
+    "id": 490889078695809000,
+    "id_str": "490889078695809024",
+    "text": "Snoops on the cloud, don't know if I feel more or less secure?!? #cia #nsa http://t.co/RTeXvjPlMj",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "cia",
+          "indices":  [
+            65,
+            69
+          ]
+        },
+         {
+          "text": "nsa",
+          "indices":  [
+            70,
+            74
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/RTeXvjPlMj",
+          "expanded_url": "http://flip.it/y7tML",
+          "display_url": "flip.it/y7tML",
+          "indices":  [
+            75,
+            97
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sun Jul 20 02:12:24 +0000 2014",
+    "id": 490680595022741500,
+    "id_str": "490680595022741504",
+    "text": "RT @LollyDaskal: SUCCESSFUL PEOPLE DO THE FOLLOWING:  \n1. Work Harder than most\n2. Have Fun Working\n3. Business is their recreation\n4. Love…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Sun Jul 20 02:10:13 +0000 2014",
+      "id": 490680045787037700,
+      "id_str": "490680045787037696",
+      "text": "SUCCESSFUL PEOPLE DO THE FOLLOWING:  \n1. Work Harder than most\n2. Have Fun Working\n3. Business is their recreation\n4. Love what they do.",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16248319,
+        "id_str": "16248319",
+        "name": "Lolly Daskal",
+        "screen_name": "LollyDaskal",
+        "location": "New York City",
+        "description": "Dedicated to bringing Heart Based Leadership to organizations & individuals | Consultant | Coach |  Speaker | Columnist @Inc @FastCompany @PsychToday @HuffPost",
+        "url": "http://t.co/XkvsFB8EJC",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/XkvsFB8EJC",
+                "expanded_url": "http://lollydaskal.com",
+                "display_url": "lollydaskal.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 774646,
+        "friends_count": 756916,
+        "listed_count": 12114,
+        "created_at": "Thu Sep 11 21:45:28 +0000 2008",
+        "favourites_count": 4388,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 121687,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/816215084/220e1b11b189b0f6506fa9c108aa97cc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/816215084/220e1b11b189b0f6506fa9c108aa97cc.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/127105431/Lolly2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/127105431/Lolly2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16248319/1402053720",
+        "profile_link_color": "CEAB42",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "302E30",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 129,
+      "favorite_count": 99,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [],
+        "user_mentions":  []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "retweet_count": 129,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "LollyDaskal",
+          "name": "Lolly Daskal",
+          "id": 16248319,
+          "id_str": "16248319",
+          "indices":  [
+            3,
+            15
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sun Jul 20 00:56:58 +0000 2014",
+    "id": 490661610026184700,
+    "id_str": "490661610026184704",
+    "text": "The city from BK http://t.co/EwVQzIvDMe",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/EwVQzIvDMe",
+          "expanded_url": "http://instagram.com/p/qp07pkgjSr/",
+          "display_url": "instagram.com/p/qp07pkgjSr/",
+          "indices":  [
+            17,
+            39
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sun Jul 20 00:53:59 +0000 2014",
+    "id": 490660859379597300,
+    "id_str": "490660859379597312",
+    "text": "Sweet vintage BSA I saw in the city http://t.co/kvsokdU6V6",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/kvsokdU6V6",
+          "expanded_url": "http://instagram.com/p/qp0lx4gjR1/",
+          "display_url": "instagram.com/p/qp0lx4gjR1/",
+          "indices":  [
+            36,
+            58
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 23:52:56 +0000 2014",
+    "id": 490645495581114400,
+    "id_str": "490645495581114368",
+    "text": "RT @CreateLex: DONT STOP RT THIS Staten Island dad dies after NYPD cop puts him in chokehold. http://t.co/ISZDFv2blY GRAPHIC VIDEO http://t…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Sat Jul 19 17:44:54 +0000 2014",
+      "id": 490552877438361600,
+      "id_str": "490552877438361601",
+      "text": "DONT STOP RT THIS Staten Island dad dies after NYPD cop puts him in chokehold. http://t.co/ISZDFv2blY GRAPHIC VIDEO http://t.co/HJvntcNsY7",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 498086229,
+        "id_str": "498086229",
+        "name": "CreateLex",
+        "screen_name": "CreateLex",
+        "location": "Los Angeles, CA",
+        "description": "Helping Producers Get Placements . BeatMakerHD App iPhone & iPad Appstore http://t.co/ZA93bH8elQ • InstaEditHD App - https://t.co/XhzRHUgYkD",
+        "url": "http://t.co/71pYSLvyon",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/71pYSLvyon",
+                "expanded_url": "http://createlex.com/producers",
+                "display_url": "createlex.com/producers",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/ZA93bH8elQ",
+                "expanded_url": "http://ift.tt/1cJmHk7",
+                "display_url": "ift.tt/1cJmHk7",
+                "indices":  [
+                  74,
+                  96
+                ]
+              },
+               {
+                "url": "https://t.co/XhzRHUgYkD",
+                "expanded_url": "https://appsto.re/us/xNek0.i",
+                "display_url": "appsto.re/us/xNek0.i",
+                "indices":  [
+                  117,
+                  140
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20671,
+        "friends_count": 18327,
+        "listed_count": 50,
+        "created_at": "Mon Feb 20 17:38:36 +0000 2012",
+        "favourites_count": 394,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11930,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000083853861/bfa25f4e5f9c6698af0986332738bf40.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000083853861/bfa25f4e5f9c6698af0986332738bf40.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478067593610141696/kDspimzM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478067593610141696/kDspimzM_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/498086229/1402694729",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 4049,
+      "favorite_count": 608,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/ISZDFv2blY",
+            "expanded_url": "http://nydn.us/1qklckn",
+            "display_url": "nydn.us/1qklckn",
+            "indices":  [
+              79,
+              101
+            ]
+          }
+        ],
+        "user_mentions":  [],
+        "media":  [
+           {
+            "id": 490133263231774700,
+            "id_str": "490133263231774720",
+            "indices":  [
+              116,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+            "url": "http://t.co/HJvntcNsY7",
+            "display_url": "pic.twitter.com/HJvntcNsY7",
+            "expanded_url": "http://twitter.com/NYDailyNews/status/490133263441494017/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 635,
+                "h": 390,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 209,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 369,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 490133263441494000,
+            "source_status_id_str": "490133263441494017"
+          }
+        ]
+      },
+      "extended_entities":  {
+        "media":  [
+           {
+            "id": 490133263231774700,
+            "id_str": "490133263231774720",
+            "indices":  [
+              116,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+            "url": "http://t.co/HJvntcNsY7",
+            "display_url": "pic.twitter.com/HJvntcNsY7",
+            "expanded_url": "http://twitter.com/NYDailyNews/status/490133263441494017/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 635,
+                "h": 390,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 209,
+                "resize": "fit"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 369,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 490133263441494000,
+            "source_status_id_str": "490133263441494017"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4049,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/ISZDFv2blY",
+          "expanded_url": "http://nydn.us/1qklckn",
+          "display_url": "nydn.us/1qklckn",
+          "indices":  [
+            94,
+            116
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "CreateLex",
+          "name": "CreateLex",
+          "id": 498086229,
+          "id_str": "498086229",
+          "indices":  [
+            3,
+            13
+          ]
+        }
+      ],
+      "media":  [
+         {
+          "id": 490133263231774700,
+          "id_str": "490133263231774720",
+          "indices":  [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+          "url": "http://t.co/HJvntcNsY7",
+          "display_url": "pic.twitter.com/HJvntcNsY7",
+          "expanded_url": "http://twitter.com/NYDailyNews/status/490133263441494017/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "large":  {
+              "w": 635,
+              "h": 390,
+              "resize": "fit"
+            },
+            "small":  {
+              "w": 340,
+              "h": 209,
+              "resize": "fit"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 369,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 490133263441494000,
+          "source_status_id_str": "490133263441494017"
+        }
+      ]
+    },
+    "extended_entities":  {
+      "media":  [
+         {
+          "id": 490133263231774700,
+          "id_str": "490133263231774720",
+          "indices":  [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Bs1NmyeIcAAoS0t.jpg",
+          "url": "http://t.co/HJvntcNsY7",
+          "display_url": "pic.twitter.com/HJvntcNsY7",
+          "expanded_url": "http://twitter.com/NYDailyNews/status/490133263441494017/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "large":  {
+              "w": 635,
+              "h": 390,
+              "resize": "fit"
+            },
+            "small":  {
+              "w": 340,
+              "h": 209,
+              "resize": "fit"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 369,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 490133263441494000,
+          "source_status_id_str": "490133263441494017"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 23:50:55 +0000 2014",
+    "id": 490644987667693600,
+    "id_str": "490644987667693568",
+    "text": "Brandon McCarthy gets 1st win for Yankees with impressive home debut in 7-1 victory over Reds http://t.co/3aWsIthzDU",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/3aWsIthzDU",
+          "expanded_url": "http://flip.it/aMJLs",
+          "display_url": "flip.it/aMJLs",
+          "indices":  [
+            94,
+            116
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 23:50:18 +0000 2014",
+    "id": 490644832159690750,
+    "id_str": "490644832159690752",
+    "text": "Pathogen Mishaps Rise as Labs Proliferate With Scant Regulation http://t.co/mNsMcZjNpo",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/mNsMcZjNpo",
+          "expanded_url": "http://flip.it/mZYs1",
+          "display_url": "flip.it/mZYs1",
+          "indices":  [
+            64,
+            86
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 23:45:46 +0000 2014",
+    "id": 490643689816227840,
+    "id_str": "490643689816227840",
+    "text": "Some Universities Crack Code in Drawing Women to Computer Science http://t.co/DeSg0Zg6s3",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/DeSg0Zg6s3",
+          "expanded_url": "http://flip.it/X7pC6",
+          "display_url": "flip.it/X7pC6",
+          "indices":  [
+            66,
+            88
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 19:30:49 +0000 2014",
+    "id": 490579532634525700,
+    "id_str": "490579532634525696",
+    "text": "Improve Your Tests by Breaking the Rules, by @jugglinmike http://t.co/JajGioiLMz #bocoup",
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "bocoup",
+          "indices":  [
+            81,
+            88
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/JajGioiLMz",
+          "expanded_url": "http://bocoup.com/weblog/breaking-rules-in-tests/",
+          "display_url": "bocoup.com/weblog/breakin…",
+          "indices":  [
+            58,
+            80
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "JugglinMike",
+          "name": "Mike Pennisi",
+          "id": 320950358,
+          "id_str": "320950358",
+          "indices":  [
+            45,
+            57
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 18:35:43 +0000 2014",
+    "id": 490565663887736800,
+    "id_str": "490565663887736832",
+    "text": "Interest discussion on sponsored data plans, if start ups can afford it too why not? http://t.co/hX0Eo32h1M",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/hX0Eo32h1M",
+          "expanded_url": "http://flip.it/3yqLu",
+          "display_url": "flip.it/3yqLu",
+          "indices":  [
+            85,
+            107
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 04:47:06 +0000 2014",
+    "id": 490357136019304450,
+    "id_str": "490357136019304449",
+    "text": "RT @rwaldron: ES6 spec draft, drev 26 is now available for review! http://t.co/Ik2CGpLKgN As always, huge thanks to @awbjs! #javascript",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Fri Jul 18 22:40:02 +0000 2014",
+      "id": 490264761171324900,
+      "id_str": "490264761171324928",
+      "text": "ES6 spec draft, drev 26 is now available for review! http://t.co/Ik2CGpLKgN As always, huge thanks to @awbjs! #javascript",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16144669,
+        "id_str": "16144669",
+        "name": "rick waldron",
+        "screen_name": "rwaldron",
+        "location": "Brooklyn, NY",
+        "description": "Champion of all NodeBots. Creator of Johnny-Five, the JavaScript Arduino Programming framework for Node.js https://t.co/BV3zTDRrDv",
+        "url": "http://t.co/ItfTt5ez5W",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/ItfTt5ez5W",
+                "expanded_url": "http://github.com/rwaldron",
+                "display_url": "github.com/rwaldron",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "https://t.co/BV3zTDRrDv",
+                "expanded_url": "https://github.com/rwaldron/johnny-five",
+                "display_url": "github.com/rwaldron/johnn…",
+                "indices":  [
+                  107,
+                  130
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8276,
+        "friends_count": 679,
+        "listed_count": 584,
+        "created_at": "Fri Sep 05 15:06:27 +0000 2008",
+        "favourites_count": 11839,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28899,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663305613/rdkrnrme7szyic48sf0v.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663305613/rdkrnrme7szyic48sf0v.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732025391/rick_jedi_avatar_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732025391/rick_jedi_avatar_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16144669/1353212961",
+        "profile_link_color": "0D0F0F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place":  {
+        "id": "27485069891a7938",
+        "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+        "place_type": "city",
+        "name": "New York",
+        "full_name": "New York, NY",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within":  [],
+        "bounding_box":  {
+          "type": "Polygon",
+          "coordinates":  [
+             [
+               [
+                -74.04725,
+                40.541722
+              ],
+               [
+                -73.699793,
+                40.541722
+              ],
+               [
+                -73.699793,
+                40.91533
+              ],
+               [
+                -74.04725,
+                40.91533
+              ]
+            ]
+          ]
+        },
+        "attributes":  {}
+      },
+      "contributors": null,
+      "retweet_count": 5,
+      "favorite_count": 13,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "javascript",
+            "indices":  [
+              110,
+              121
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/Ik2CGpLKgN",
+            "expanded_url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#july_18_2014_draft_rev_26",
+            "display_url": "wiki.ecmascript.org/doku.php?id=ha…",
+            "indices":  [
+              53,
+              75
+            ]
+          }
+        ],
+        "user_mentions":  [
+           {
+            "screen_name": "awbjs",
+            "name": "Allen Wirfs-Brock",
+            "id": 159946057,
+            "id_str": "159946057",
+            "indices":  [
+              102,
+              108
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "javascript",
+          "indices":  [
+            124,
+            135
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/Ik2CGpLKgN",
+          "expanded_url": "http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#july_18_2014_draft_rev_26",
+          "display_url": "wiki.ecmascript.org/doku.php?id=ha…",
+          "indices":  [
+            67,
+            89
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "rwaldron",
+          "name": "rick waldron",
+          "id": 16144669,
+          "id_str": "16144669",
+          "indices":  [
+            3,
+            12
+          ]
+        },
+         {
+          "screen_name": "awbjs",
+          "name": "Allen Wirfs-Brock",
+          "id": 159946057,
+          "id_str": "159946057",
+          "indices":  [
+            116,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 03:11:19 +0000 2014",
+    "id": 490333033095266300,
+    "id_str": "490333033095266304",
+    "text": "RT @RawStory: Elizabeth Warren is making sense. Again.  http://t.co/b5yRzOxpUw",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Sat Jul 19 00:32:28 +0000 2014",
+      "id": 490293056743436300,
+      "id_str": "490293056743436288",
+      "text": "Elizabeth Warren is making sense. Again.  http://t.co/b5yRzOxpUw",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16041234,
+        "id_str": "16041234",
+        "name": "The Raw Story",
+        "screen_name": "RawStory",
+        "location": "Washington, DC",
+        "description": "The official Twitter of http://t.co/4PonQAkpts",
+        "url": "http://t.co/oWQ6aBbYad",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/oWQ6aBbYad",
+                "expanded_url": "http://www.rawstory.com",
+                "display_url": "rawstory.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  [
+               {
+                "url": "http://t.co/4PonQAkpts",
+                "expanded_url": "http://RawStory.com",
+                "display_url": "RawStory.com",
+                "indices":  [
+                  24,
+                  46
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 44351,
+        "friends_count": 1929,
+        "listed_count": 2866,
+        "created_at": "Fri Aug 29 12:29:21 +0000 2008",
+        "favourites_count": 7,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 73110,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/204237561/rawreplaytwitterbackground.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/204237561/rawreplaytwitterbackground.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/424247813707268096/b7rgWsmL_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/424247813707268096/b7rgWsmL_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "7D0B0B",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 14,
+      "favorite_count": 18,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [
+           {
+            "url": "http://t.co/b5yRzOxpUw",
+            "expanded_url": "http://ow.ly/zkOiL",
+            "display_url": "ow.ly/zkOiL",
+            "indices":  [
+              42,
+              64
+            ]
+          }
+        ],
+        "user_mentions":  []
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/b5yRzOxpUw",
+          "expanded_url": "http://ow.ly/zkOiL",
+          "display_url": "ow.ly/zkOiL",
+          "indices":  [
+            56,
+            78
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "RawStory",
+          "name": "The Raw Story",
+          "id": 16041234,
+          "id_str": "16041234",
+          "indices":  [
+            3,
+            12
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:48:56 +0000 2014",
+    "id": 490297201147805700,
+    "id_str": "490297201147805696",
+    "text": "With 1 million comments, U.S. net neutrality debate nears first marker http://t.co/ywqnHVZ6tZ",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/ywqnHVZ6tZ",
+          "expanded_url": "http://flip.it/vGJoK",
+          "display_url": "flip.it/vGJoK",
+          "indices":  [
+            71,
+            93
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:48:36 +0000 2014",
+    "id": 490297117588856800,
+    "id_str": "490297117588856832",
+    "text": "Netflix is testing a 'privacy mode' for watching guilty pleasures http://t.co/ynlhm4njzt",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/ynlhm4njzt",
+          "expanded_url": "http://flip.it/BOOQT",
+          "display_url": "flip.it/BOOQT",
+          "indices":  [
+            66,
+            88
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:46:51 +0000 2014",
+    "id": 490296674515177500,
+    "id_str": "490296674515177472",
+    "text": "Google shows off Project Athena, a preview of Chrome OS’s future look http://t.co/e7zYluGFkB",
+    "source": "<a href=\"http://www.flipboard.com\" rel=\"nofollow\">Flipboard</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/e7zYluGFkB",
+          "expanded_url": "http://flip.it/CNsfA",
+          "display_url": "flip.it/CNsfA",
+          "indices":  [
+            70,
+            92
+          ]
+        }
+      ],
+      "user_mentions":  []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:16:50 +0000 2014",
+    "id": 490289123018551300,
+    "id_str": "490289123018551296",
+    "text": "40 People Who Are Living Proof You Can Make It In Silicon Valley After 40 | TechCrunch http://t.co/2TnZaWaanl via @techcrunch",
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/2TnZaWaanl",
+          "expanded_url": "http://techcrunch.com/gallery/40-people-who-are-living-proof-you-can-make-it-in-silicon-valley-after-40/?ncid=twittersocialshare",
+          "display_url": "techcrunch.com/gallery/40-peo…",
+          "indices":  [
+            87,
+            109
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices":  [
+            114,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:15:43 +0000 2014",
+    "id": 490288839257112600,
+    "id_str": "490288839257112576",
+    "text": "RT @LollyDaskal: self-respect inclines one more towards effective moderation.  ~@LollyDaskal #leadfromwithin #leadership",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Sat Jul 19 00:01:25 +0000 2014",
+      "id": 490285242159480800,
+      "id_str": "490285242159480833",
+      "text": "self-respect inclines one more towards effective moderation.  ~@LollyDaskal #leadfromwithin #leadership",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 16248319,
+        "id_str": "16248319",
+        "name": "Lolly Daskal",
+        "screen_name": "LollyDaskal",
+        "location": "New York City",
+        "description": "Dedicated to bringing Heart Based Leadership to organizations & individuals | Consultant | Coach |  Speaker | Columnist @Inc @FastCompany @PsychToday @HuffPost",
+        "url": "http://t.co/XkvsFB8EJC",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/XkvsFB8EJC",
+                "expanded_url": "http://lollydaskal.com",
+                "display_url": "lollydaskal.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 774646,
+        "friends_count": 756916,
+        "listed_count": 12114,
+        "created_at": "Thu Sep 11 21:45:28 +0000 2008",
+        "favourites_count": 4388,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 121687,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/816215084/220e1b11b189b0f6506fa9c108aa97cc.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/816215084/220e1b11b189b0f6506fa9c108aa97cc.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/127105431/Lolly2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/127105431/Lolly2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16248319/1402053720",
+        "profile_link_color": "CEAB42",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "302E30",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 6,
+      "favorite_count": 6,
+      "entities":  {
+        "hashtags":  [
+           {
+            "text": "leadfromwithin",
+            "indices":  [
+              76,
+              91
+            ]
+          },
+           {
+            "text": "leadership",
+            "indices":  [
+              92,
+              103
+            ]
+          }
+        ],
+        "symbols":  [],
+        "urls":  [],
+        "user_mentions":  [
+           {
+            "screen_name": "LollyDaskal",
+            "name": "Lolly Daskal",
+            "id": 16248319,
+            "id_str": "16248319",
+            "indices":  [
+              63,
+              75
+            ]
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "leadfromwithin",
+          "indices":  [
+            93,
+            108
+          ]
+        },
+         {
+          "text": "leadership",
+          "indices":  [
+            109,
+            120
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "LollyDaskal",
+          "name": "Lolly Daskal",
+          "id": 16248319,
+          "id_str": "16248319",
+          "indices":  [
+            3,
+            15
+          ]
+        },
+         {
+          "screen_name": "LollyDaskal",
+          "name": "Lolly Daskal",
+          "id": 16248319,
+          "id_str": "16248319",
+          "indices":  [
+            80,
+            92
+          ]
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+   {
+    "created_at": "Sat Jul 19 00:14:16 +0000 2014",
+    "id": 490288476961513500,
+    "id_str": "490288476961513472",
+    "text": "RT @addyosmani: Chrome beta 37 is out! Includes DirectWrite for Windows, HTML <dialog>, Subpixel font scaling & CSS Shapes Level 1: http://…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Jul 17 22:17:36 +0000 2014",
+      "id": 489896726661451800,
+      "id_str": "489896726661451776",
+      "text": "Chrome beta 37 is out! Includes DirectWrite for Windows, HTML <dialog>, Subpixel font scaling & CSS Shapes Level 1: http://t.co/0ijdlpmc2r",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 35432643,
+        "id_str": "35432643",
+        "name": "Addy Osmani",
+        "screen_name": "addyosmani",
+        "location": "London, England",
+        "description": "Engineer at Google • Author • Chrome, Polymer • Creator of TodoMVC, @Yeoman, Web Starter Kit & others • Passionate about web tooling",
+        "url": "http://t.co/Ss8VpfPH4Z",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "http://t.co/Ss8VpfPH4Z",
+                "expanded_url": "http://www.addyosmani.com",
+                "display_url": "addyosmani.com",
+                "indices":  [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 70332,
+        "friends_count": 1289,
+        "listed_count": 3823,
+        "created_at": "Sun Apr 26 08:40:11 +0000 2009",
+        "favourites_count": 7380,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8875,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457352406351638528/mtKQFUEX.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457352406351638528/mtKQFUEX.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/422476220442234880/jlx9HMtr_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/422476220442234880/jlx9HMtr_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/35432643/1398198628",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "56E372",
+        "profile_text_color": "0A0A0A",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 119,
+      "favorite_count": 99,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [],
+        "user_mentions":  [],
+        "media":  [
+           {
+            "id": 489896725386371100,
+            "id_str": "489896725386371072",
+            "indices":  [
+              126,
+              148
+            ],
+            "media_url": "http://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+            "media_url_https": "https://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+            "url": "http://t.co/0ijdlpmc2r",
+            "display_url": "pic.twitter.com/0ijdlpmc2r",
+            "expanded_url": "http://twitter.com/addyosmani/status/489896726661451776/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 1024,
+                "h": 713,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 418,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities":  {
+        "media":  [
+           {
+            "id": 489896725386371100,
+            "id_str": "489896725386371072",
+            "indices":  [
+              126,
+              148
+            ],
+            "media_url": "http://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+            "media_url_https": "https://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+            "url": "http://t.co/0ijdlpmc2r",
+            "display_url": "pic.twitter.com/0ijdlpmc2r",
+            "expanded_url": "http://twitter.com/addyosmani/status/489896726661451776/photo/1",
+            "type": "photo",
+            "sizes":  {
+              "large":  {
+                "w": 1024,
+                "h": 713,
+                "resize": "fit"
+              },
+              "thumb":  {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium":  {
+                "w": 600,
+                "h": 418,
+                "resize": "fit"
+              },
+              "small":  {
+                "w": 340,
+                "h": 237,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "addyosmani",
+          "name": "Addy Osmani",
+          "id": 35432643,
+          "id_str": "35432643",
+          "indices":  [
+            3,
+            14
+          ]
+        }
+      ],
+      "media":  [
+         {
+          "id": 489896725386371100,
+          "id_str": "489896725386371072",
+          "indices":  [
+            149,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+          "url": "http://t.co/0ijdlpmc2r",
+          "display_url": "pic.twitter.com/0ijdlpmc2r",
+          "expanded_url": "http://twitter.com/addyosmani/status/489896726661451776/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "large":  {
+              "w": 1024,
+              "h": 713,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 418,
+              "resize": "fit"
+            },
+            "small":  {
+              "w": 340,
+              "h": 237,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 489896726661451800,
+          "source_status_id_str": "489896726661451776"
+        }
+      ]
+    },
+    "extended_entities":  {
+      "media":  [
+         {
+          "id": 489896725386371100,
+          "id_str": "489896725386371072",
+          "indices":  [
+            149,
+            150
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Bsx2eeVIIAAySaJ.png",
+          "url": "http://t.co/0ijdlpmc2r",
+          "display_url": "pic.twitter.com/0ijdlpmc2r",
+          "expanded_url": "http://twitter.com/addyosmani/status/489896726661451776/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "large":  {
+              "w": 1024,
+              "h": 713,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 418,
+              "resize": "fit"
+            },
+            "small":  {
+              "w": 340,
+              "h": 237,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 489896726661451800,
+          "source_status_id_str": "489896726661451776"
+        }
+      ]
+    },
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Jul 18 23:27:16 +0000 2014",
+    "id": 490276646797475840,
+    "id_str": "490276646797475840",
+    "text": "Check my first #pixotale http://t.co/KTTVgtBkjW http://t.co/oPUdMpLVIT",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities":  {
+      "hashtags":  [
+         {
+          "text": "pixotale",
+          "indices":  [
+            15,
+            24
+          ]
+        }
+      ],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/KTTVgtBkjW",
+          "expanded_url": "http://pixotale.com/story/7271812/",
+          "display_url": "pixotale.com/story/7271812/",
+          "indices":  [
+            25,
+            47
+          ]
+        }
+      ],
+      "user_mentions":  [],
+      "media":  [
+         {
+          "id": 490276646621302800,
+          "id_str": "490276646621302784",
+          "indices":  [
+            48,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bs3QAzOIUAAY_lT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Bs3QAzOIUAAY_lT.jpg",
+          "url": "http://t.co/oPUdMpLVIT",
+          "display_url": "pic.twitter.com/oPUdMpLVIT",
+          "expanded_url": "http://twitter.com/gcpeters/status/490276646797475840/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "small":  {
+              "w": 340,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large":  {
+              "w": 768,
+              "h": 1023,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 799,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities":  {
+      "media":  [
+         {
+          "id": 490276646621302800,
+          "id_str": "490276646621302784",
+          "indices":  [
+            48,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/Bs3QAzOIUAAY_lT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Bs3QAzOIUAAY_lT.jpg",
+          "url": "http://t.co/oPUdMpLVIT",
+          "display_url": "pic.twitter.com/oPUdMpLVIT",
+          "expanded_url": "http://twitter.com/gcpeters/status/490276646797475840/photo/1",
+          "type": "photo",
+          "sizes":  {
+            "small":  {
+              "w": 340,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large":  {
+              "w": 768,
+              "h": 1023,
+              "resize": "fit"
+            },
+            "thumb":  {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium":  {
+              "w": 600,
+              "h": 799,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+   {
+    "created_at": "Fri Jul 18 18:56:01 +0000 2014",
+    "id": 490208385736794100,
+    "id_str": "490208385736794112",
+    "text": "Secure Development | Security Ninja http://t.co/WxJ7HMWK7s via @ThinkDevGrow",
+    "source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user":  {
+      "id": 16514015,
+      "id_str": "16514015",
+      "name": "Grant C. Peters",
+      "screen_name": "gcpeters",
+      "location": "Harlem, NY",
+      "description": "Development Lead @LearnVest, Javascript poet, CSS artist. I build the web, well part of it, but an important part...whatever just read my tweets!",
+      "url": "http://t.co/BiPg9M9nUg",
+      "entities":  {
+        "url":  {
+          "urls":  [
+             {
+              "url": "http://t.co/BiPg9M9nUg",
+              "expanded_url": "http://www.gcpeters.com",
+              "display_url": "gcpeters.com",
+              "indices":  [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":  {
+          "urls":  []
+        }
+      },
+      "protected": false,
+      "followers_count": 332,
+      "friends_count": 610,
+      "listed_count": 6,
+      "created_at": "Mon Sep 29 16:51:37 +0000 2008",
+      "favourites_count": 331,
+      "utc_offset": -18000,
+      "time_zone": "Quito",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 721,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2315179957/image_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16514015/1400210184",
+      "profile_link_color": "4D636B",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [
+         {
+          "url": "http://t.co/WxJ7HMWK7s",
+          "expanded_url": "http://www.securityninja.co.uk/secure-development/",
+          "display_url": "securityninja.co.uk/secure-develop…",
+          "indices":  [
+            36,
+            58
+          ]
+        }
+      ],
+      "user_mentions":  [
+         {
+          "screen_name": "ThinkDevGrow",
+          "name": "DevGrow",
+          "id": 114564516,
+          "id_str": "114564516",
+          "indices":  [
+            63,
+            76
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ro"
+  }
+]
