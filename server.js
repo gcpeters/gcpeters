@@ -31,6 +31,6 @@ app.get('/connectors/twitter-activity', function (req, res) {
 	});
 });
 
-server = app.listen(process.env.PORT || 80, function() {
+server = app.listen(80, function () {
 	console.log('Listening on port %d', server.address().port);
 });
