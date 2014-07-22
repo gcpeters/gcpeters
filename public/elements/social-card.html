@@ -1,14 +1,14 @@
 <link rel="import" href="/components/polymer/polymer.html">
 <link rel="import" href="/components/core-icon-button/core-icon-button.html">
 
-<polymer-element name="social-card">
+<polymer-element name="social-card" attributes="tweet">
 	<template>
 		<style>
 			:host {
 				display: block;
 				position: relative;
 				background-color: white;
-				padding: 20px;
+				padding: 1em 0;
 				width: 100%;
 				font-size: 1.2rem;
 				font-weight: 300;
@@ -16,24 +16,38 @@
 
 			.card-header {
 				margin-bottom: 10px;
+				padding: 0 1em;
 			}
 
-			polyfill-next-selector { content: '.card-header h2'; }
-
-			.card-header ::content h2 {
+			.card-header h2 {
 				font-size: 1.8rem;
 				font-weight: 300;
 				margin: 0;
 			}
 
-			polyfill-next-selector { content: '.card-header img'; }
-
-			.card-header ::content img {
+			.card-header img {
 				border-radius: 50%;
-				border: solid 2px #40c4ff;
+				border: solid 3px #039be5;
 				margin: 10px;
 				width: 70px;
 				height: 70px;
+			}
+
+			p {
+				padding: 0 1em;
+			}
+
+			a, a:link, a:visited {
+				color: #0277bd;
+				text-decoration: none;
+			}
+
+			a:hover {
+				color: #4fc3f7;
+			}
+
+			a:active {
+				color: #039be5;
 			}
 
 			core-icon-button {
@@ -49,9 +63,17 @@
 		</style>
 
 		<div class="card-header" layout horizontal center>
-			<content select="img"></content>
-			<content select="h2"></content>
+			<img src="{{tweet.user.profile_image_url}}" width="70" height="70">
+			<h2>
+				{{tweet.user.name}}<br />
+				<a href="https://twitter.com/{{tweet.user.screen_name}}" target="_blank">@{{tweet.user.screen_name}}</a>
+			</h2>
 		</div>
+
+		<div id="media"></div>
+
+		<p id="body"></p>
+		<p><em><sub id="createdAt"></sub></em></p>
 
 		<core-icon-button
 			id="favicon"
@@ -72,7 +94,30 @@
 			},
 
 			ready: function () {
-				// debugger;
+				var tweet = this.tweet,
+					urlRE = /\b((https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?)\b/g,
+					media,
+					image;
+
+				this.$.createdAt.innerHTML = moment(new Date(tweet.created_at)).format("MMM Do YY");
+				this.$.body.innerHTML = tweet.text.replace(urlRE, '<a href="$1" target="_blank">$1</a>');
+
+				if (!tweet.entities) {
+
+					return;
+				}
+
+				media = tweet.entities.media;
+
+				if (!media) {
+
+					return;
+				}
+
+				image = document.createElement('img');
+				image.src = media[0].media_url;
+				image.style.width = '100%';
+				this.$.media.appendChild(image);
 			},
 
 			favoriteTapped: function (evt, detail, sender) {

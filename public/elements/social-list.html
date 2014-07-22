@@ -19,40 +19,12 @@
 
 		<div layout vertical center>
 			<template repeat="{{tweet in tweets}}">
-				<social-card
-					favorite="{{tweet.favorite}}"
-					on-favorite-tap="{{handleFavorite}}"
-					hidden?="{{show === 'favorites' && !tweet.favorite}}">
-
-					<img src="{{tweet.user.profile_image_url}}" width="70" height="70">
-					<h2><a href="https://twitter.com/{{tweet.user.screen_name}}" target="_blank">@{{tweet.user.screen_name}}</a></h2>
-					<p>
-						{{tweet.text}}
-						<br />
-						<em>source: <span id="source-link"></span></em>
-					</p>
-				</social-card>
+				<social-card tweet="{{tweet}}"></social-card>
 			</template>
 		</div>
-
-		<div>(<em><span id="el">Loading...</span></em>)</div>
 	</template>
 
     <script>
-		window.Polymer('social-list', {
-			owner: 'social-list',
-			created: function () {},
-
-			ready: function () {
-				this.$.el.textContent = this.owner + ' is ready!';
-				//{{tweet.source}}
-				// debugger;
-			},
-
-			handleFavorite: function(event, detail, sender) {
-				var tweet = sender.templateInstance.model.tweet;
-				this.$.service.setFavorite(tweet.id_str, tweet.favorite);
-			}
-		});
+		window.Polymer('social-list');
 	</script>
 </polymer-element>
