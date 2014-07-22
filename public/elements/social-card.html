@@ -63,10 +63,11 @@
 		</style>
 
 		<div class="card-header" layout horizontal center>
-			<img src="{{tweet.user.profile_image_url}}" width="70" height="70">
+			<img src="" width="70" height="70" id="avatar">
 			<h2>
-				{{tweet.user.name}}<br />
-				<a href="https://twitter.com/{{tweet.user.screen_name}}" target="_blank">@{{tweet.user.screen_name}}</a>
+				<span id="userName"></span>
+				<br />
+				<a href="" target="_blank" id="userLink">@<span id="screenName"></span></a>
 			</h2>
 		</div>
 
@@ -85,6 +86,17 @@
 	</template>
 
 	<script>
+		function parseTweetText (text) {
+			var urlRE = /\b(http(s?):\/\/[\S]+)\b/g,
+				userNameRE = /(@([\w]+))/g,
+				hashTagRE = /(#([\w]+))/g;
+
+			return text
+				.replace(urlRE, '<a href="$1" target="_blank">$1</a>')
+				.replace(userNameRE, '<a href="https://twitter.com/$2" target="_blank">$1</a>')
+				.replace(hashTagRE, '<a href="https://twitter.com/search?q=%23$2" target="_blank">$1</a>');
+		}
+
 		window.Polymer('social-card', {
 			publish: {
 				favorite: {
@@ -99,8 +111,22 @@
 					media,
 					image;
 
+				if (!tweet) {
+
+					return;
+				}
+
+				if (tweet.retweeted_status) {
+
+					tweet = tweet.retweeted_status;
+				}
+
+				this.$.avatar.src = tweet.user.profile_image_url;
+				this.$.userName.innerHTML = tweet.user.name;
+				this.$.screenName.innerHTML = tweet.user.screen_name;
+				this.$.userLink.href = ['https://twitter.com', tweet.user.screen_name].join('/');
+				this.$.body.innerHTML = parseTweetText(tweet.text);
 				this.$.createdAt.innerHTML = moment(new Date(tweet.created_at)).format("MMM Do YY");
-				this.$.body.innerHTML = tweet.text.replace(urlRE, '<a href="$1" target="_blank">$1</a>');
 
 				if (!tweet.entities) {
 
