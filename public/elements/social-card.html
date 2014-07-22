@@ -95,7 +95,7 @@
 
 			ready: function () {
 				var tweet = this.tweet,
-					urlRE = /\b((https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?)\b/g,
+					urlRE = /\b(http(s?):\/\/[\S]+)\b/g,
 					media,
 					image;
 
