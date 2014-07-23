@@ -1,7 +1,7 @@
 <link rel="import" href="/components/polymer/polymer.html">
 <link rel="import" href="/components/core-icon-button/core-icon-button.html">
 
-<polymer-element name="social-card" attributes="tweet">
+<polymer-element name="social-card" attributes="tweet" constructor="SocialCard">
 	<template>
 		<style>
 			:host {
@@ -78,8 +78,7 @@
 
 		<core-icon-button
 			id="favicon"
-			icon="favorite"
-			on-tap="{{favoriteTapped}}">
+			icon="favorite">
 		</core-icon-button>
 
 		<content></content>
@@ -98,14 +97,7 @@
 		}
 
 		window.Polymer('social-card', {
-			publish: {
-				favorite: {
-					value: false,
-					reflect: true
-				}
-			},
-
-			ready: function () {
+			domReady: function () {
 				var tweet = this.tweet,
 					urlRE = /\b(http(s?):\/\/[\S]+)\b/g,
 					media,
@@ -146,9 +138,8 @@
 				this.$.media.appendChild(image);
 			},
 
-			favoriteTapped: function (evt, detail, sender) {
-				this.favorite = !this.favorite;
-				this.fire('favorite-tap');
+			attributeChangedCallback: function (evt, detail, sender) {
+				debugger;
 			}
 		});
 	</script>

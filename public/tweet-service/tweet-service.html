@@ -71,6 +71,7 @@
 			tweetsLoaded: function() {
 				// Make a copy of the loaded data
 				this.tweets = this.$.ajax.response.slice(0);
+				this.fire('data-ready', this.tweets);
 			},
 
 			/** 

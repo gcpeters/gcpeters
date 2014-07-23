@@ -25,6 +25,11 @@
 	</template>
 
     <script>
-		window.Polymer('social-list');
+		window.Polymer('social-list', {
+			ready: function () {
+				// console.log(new SocialCard());
+				// debugger;
+			}
+		});
 	</script>
 </polymer-element>
