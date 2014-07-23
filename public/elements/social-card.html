@@ -10,7 +10,7 @@
 				background-color: white;
 				padding: 1em 0;
 				width: 100%;
-				font-size: 1.2rem;
+				font-size: 1rem;
 				font-weight: 300;
 			}
 
@@ -20,7 +20,7 @@
 			}
 
 			.card-header h2 {
-				font-size: 1.8rem;
+				font-size: 1.2rem;
 				font-weight: 300;
 				margin: 0;
 			}
@@ -29,8 +29,8 @@
 				border-radius: 50%;
 				border: solid 3px #039be5;
 				margin: 10px;
-				width: 70px;
-				height: 70px;
+				width: 50px;
+				height: 50px;
 			}
 
 			p {
@@ -60,10 +60,19 @@
 			:host([favorite]) core-icon-button {
 				fill: #da4336;
 			}
+
+			@media (min-width: 481px) {
+				:host {
+					font-size: 1.2rem;
+				}
+				.card-header h2 {
+					font-size: 1.5rem;
+				}
+			}
 		</style>
 
 		<div class="card-header" layout horizontal center>
-			<img src="" width="70" height="70" id="avatar">
+			<img id="avatar">
 			<h2>
 				<span id="userName"></span>
 				<br />
