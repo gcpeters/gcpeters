@@ -1,5 +1,6 @@
 <link rel="import" href="/components/polymer/polymer.html">
-<link rel="import" href="/tweet-service/tweet-service.html">
+<link rel="import" href="/elements/services/twitter/twitter-service.html">
+<link rel="import" href="/elements/services/instagram/instagram-service.html">
 <link rel="import" href="/elements/social-card.html">
 
 <polymer-element name="social-list" attributes="show" constructor="SocialList">
@@ -10,13 +11,33 @@
 				width: 100%;
 			}
 
+			h3 {
+				font-weight: normal;
+				text-align: center;
+			}
+
+			a, a:link, a:visited {
+				color: #0277bd;
+				text-decoration: none;
+			}
+
+			a:hover {
+				color: #4fc3f7;
+			}
+
+			a:active {
+				color: #039be5;
+			}
+
 			social-card {
 				margin-bottom: 30px;
 			}
 		</style>
 
-		<tweet-service id="service" tweets="{{tweets}}"></tweet-service>
+		<twitter-service id="service" tweets="{{tweets}}"></twitter-service>
+		<instagram-service id="service" posts="{{posts}}"></instagram-service>
 
+		<h3>My <a href="http://twitter.com" target="_blank">tweets &amp; retweets</a></h3>
 		<div layout vertical center>
 			<template repeat="{{tweet in tweets}}">
 				<social-card tweet="{{tweet}}"></social-card>
@@ -25,11 +46,6 @@
 	</template>
 
     <script>
-		window.Polymer('social-list', {
-			ready: function () {
-				// console.log(new SocialCard());
-				// debugger;
-			}
-		});
+		window.Polymer('social-list');
 	</script>
 </polymer-element>

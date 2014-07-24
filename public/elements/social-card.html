@@ -8,7 +8,7 @@
 				display: block;
 				position: relative;
 				background-color: white;
-				padding: 1em 0;
+				padding: 1em 0 0;
 				width: 100%;
 				font-size: 1rem;
 				font-weight: 300;
@@ -34,7 +34,8 @@
 			}
 
 			p {
-				padding: 0 1em;
+				margin: 0;
+				padding: 1em;
 			}
 
 			a, a:link, a:visited {
@@ -48,6 +49,17 @@
 
 			a:active {
 				color: #039be5;
+			}
+
+			.post-time {
+				font-size: .8em;
+				font-style: italic;
+			}
+
+			.post-body {
+				background-color: #eef2f4;
+				border-top: solid 1px #e1f5fe;
+				border-bottom: solid 1px #e1f5fe;
 			}
 
 			core-icon-button {
@@ -82,15 +94,8 @@
 
 		<div id="media"></div>
 
-		<p id="body"></p>
-		<p><em><sub id="createdAt"></sub></em></p>
-
-		<core-icon-button
-			id="favicon"
-			icon="favorite">
-		</core-icon-button>
-
-		<content></content>
+		<p class="post-body" id="body"></p>
+		<p class="post-time" id="createdAt"></p>
 	</template>
 
 	<script>
@@ -145,10 +150,6 @@
 				image.src = media[0].media_url;
 				image.style.width = '100%';
 				this.$.media.appendChild(image);
-			},
-
-			attributeChangedCallback: function (evt, detail, sender) {
-				debugger;
 			}
 		});
 	</script>

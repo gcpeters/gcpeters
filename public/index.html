@@ -15,72 +15,76 @@
 
 		<!-- 2. Load the component using an HTML Import -->
 		<link rel="import" href="/elements/social-list.html">
+		<link rel="import" href="/elements/instagram-list.html">
 
 		<style>
 			html,body {
+				background-color: #e5e5e5;
+				color: #424242;
+				font-family: 'RobotoDraft', sans-serif;
 				height: 100%;
 				margin: 0;
-				background-color: #E5E5E5;
-				font-family: 'RobotoDraft', sans-serif;
+			}
+
+			header {
+				width: 80%;
+				margin: 0 auto;
+				text-align: center;
+			}
+
+			h1 {
+				font-size: 2.5em;
 			}
 
 			.container {
-				width: 80%;
-				margin: 50px auto;
+				display: -ms-flexbox;
+				display: -webkit-flex;
+				display: flex;
+				-ms-flex-direction: column;
+				-webkit-flex-direction: column;
+				flex-direction: column;
+				width: 90%;
+				margin: 2em auto;
 			}
 
 			core-header-panel {
-				height: 100%;
-				overflow: auto;
-				-webkit-overflow-scrolling: touch; 
+				padding: 0 1em;
+				text-align: center;
+				width: 90%;
+				height: 7.5em;
 			}
 
-			core-toolbar {
-				background: #03a9f4;
-				color: white;
-			}
-
-			core-toolbar,
-			core-toolbar .toolbar-tools {
-				height: 48px;
-			}
-
-			core-toolbar .toolbar-tools {
-				padding: 0;
-			}
-
-			#tabs {
-				width: 100%;
-				margin: 0;
-				-webkit-user-select: none;
-				-moz-user-select: none;
-				-ms-user-select: none;
-				user-select: none;
-			}
-
-			@media (min-width: 481px) {
-				#tabs {
-					width: 200px;
+			@media (min-width: 769px) {
+				.container {
+					-ms-flex-align: start;
+					-webkit-align-items: flex-start;
+					align-items: flex-start;
+					-ms-flex-direction: row;
+					-webkit-flex-direction: row;
+					flex-direction: row;
+					width: 80%;
 				}
 
-				.container {
-					width: 400px;
+				.container > * {
+					margin: 0 0 0 5%;
+				}
+
+				.container > :first-child {
+					margin-left: 0;
 				}
 			}
 		</style>
 	</head>
 	<body unresolved touch-action="auto">
-		<core-header-panel>
-			<core-toolbar>
-				<paper-tabs id="tabs" valueattr="name" selected="all" self-end>
-					<paper-tab name="all">ALL</paper-tab>
-					<paper-tab name="favorites">FAVORITES</paper-tab>
-				</paper-tabs>
-			</core-toolbar>
+		<header>
+			<h1>While I build my site...</h1>
+			<p>Enjoy some of my recent tweets and posts, thanks!</p>
+		</header>
 
-			<div class="container" layout vertical center>
-				<social-list></social-list>
-			</div>
-		</core-header-panel>
+		<div class="container">
+			<social-list></social-list>
+
+			<instagram-list></instagram-list>
+		</div>
 	</body>
 </html>

@@ -1,0 +1,49 @@
+<link rel="import" href="/components/polymer/polymer.html">
+<link rel="import" href="/elements/services/instagram/instagram-service.html">
+<link rel="import" href="/elements/instagram-card.html">
+
+<polymer-element name="instagram-list" constructor="InstagramList">
+	<template>
+		<style>
+			:host {
+				display: block;
+				width: 100%;
+			}
+
+			h3 {
+				font-weight: normal;
+				text-align: center;
+			}
+
+			a, a:link, a:visited {
+				color: #0277bd;
+				text-decoration: none;
+			}
+
+			a:hover {
+				color: #4fc3f7;
+			}
+
+			a:active {
+				color: #039be5;
+			}
+
+			instagram-card {
+				margin-bottom: 30px;
+			}
+		</style>
+
+		<instagram-service id="service" posts="{{posts}}"></instagram-service>
+
+		<h3>My <a href="http://instagram.com" target="_blank">Instagram posts</a></h3>
+		<div layout vertical center>
+			<template repeat="{{post in posts}}">
+				<instagram-card post="{{post}}"></instagram-card>
+			</template>
+		</div>
+	</template>
+
+    <script>
+		window.Polymer('instagram-list');
+	</script>
+</polymer-element>

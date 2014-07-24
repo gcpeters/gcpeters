@@ -1,13 +1,13 @@
 <link rel="import" href="/components/polymer/polymer.html">
 <link rel="import" href="/components/core-ajax/core-ajax.html">
 <!-- 
-  `<tweet-service>` provides an API for a fake service -- 
+  `<twitter-service>` provides an API for a fake service -- 
   _unquote_, the read-only social networking service!
 
   Provides a very simple API: `tweets` returns the list of tweets.
   `setFavorite` pretends to persist a user's favorite choice.
 
-  @element tweet-service
+  @element twitter-service
   @demo 
   @homepage http://www.polymer-project.org/docs/start/tutorial.html
 -->
@@ -47,7 +47,7 @@
   @type Array
   @default []
 -->
-<polymer-element name="tweet-service" attributes="tweets">
+<polymer-element name="twitter-service" attributes="tweets">
 	<template>
 		<style>
 			:host {
@@ -63,7 +63,7 @@
 	</template>
 
 	<script>
-		Polymer('tweet-service', {
+		Polymer('twitter-service', {
 			created: function() {
 				this.tweets = [];
 			},
@@ -71,7 +71,6 @@
 			tweetsLoaded: function() {
 				// Make a copy of the loaded data
 				this.tweets = this.$.ajax.response.slice(0);
-				this.fire('data-ready', this.tweets);
 			},
 
 			/** 

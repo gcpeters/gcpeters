@@ -1,9 +1,19 @@
 var express = require('express'),
     Twit = require('twit'),
-	http = require('http'),
+	superagent = require('superagent'),
 	app = express(),
 	twit,
-	server;
+	server,
+	instagramEndpoints;
+
+instagram = {
+	clientID: 'ce433583fb924454a885eb5ad4b222e7',
+	userID: '26330140',
+	endpoints: {
+		search: 'https://api.instagram.com/v1/users/{{userID}}/media/recent/?client_id={{clientID}}',
+		user: 'https://api.instagram.com/v1/users/{{userID}}/?access_token={{accessToken}}'
+	}
+};
 
 twit = new Twit({
 	consumer_key: 'YgtLZzwULKFFkIHP67oj6pKVw',
@@ -31,6 +41,22 @@ app.get('/connectors/twitter-activity', function (req, res) {
 	});
 });
 
-server = app.listen(80, function () {
+app.get('/connectors/instagram-activity', function (req, res) {
+	superagent.get(instagram.endpoints.search.replace(/\{\{userID}}/, instagram.userID).replace(/\{\{clientID}}/, instagram.clientID))
+		.set({
+			Accept: 'application/json'
+		})
+		.end(function (err, response) {
+			if (err) {
+
+				console.log(err);
+				return;
+			}
+
+			res.send(response.body);
+		});
+});
+
+server = app.listen(8080, function () {
 	console.log('Listening on port %d', server.address().port);
 });

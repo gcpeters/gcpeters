@@ -1,0 +1,117 @@
+<link rel="import" href="/components/polymer/polymer.html">
+<link rel="import" href="/components/core-icon-button/core-icon-button.html">
+
+<polymer-element name="instagram-card" attributes="post" constructor="InstagramCard">
+	<template>
+		<style>
+			:host {
+				display: block;
+				position: relative;
+				background-color: white;
+				padding: 1em 0 0;
+				width: 100%;
+				font-size: 1rem;
+				font-weight: 300;
+			}
+
+			.card-header {
+				margin-bottom: 10px;
+				padding: 0 1em;
+			}
+
+			.card-header h2 {
+				font-size: 1.2rem;
+				font-weight: 300;
+				margin: 0;
+			}
+
+			.card-header img {
+				border-radius: 50%;
+				border: solid 3px #039be5;
+				margin: 10px;
+				width: 50px;
+				height: 50px;
+			}
+
+			.instagram-post {
+				width: 100%;
+			}
+
+			p {
+				margin: 0;
+				padding: 1em;
+			}
+
+			a, a:link, a:visited {
+				color: #0277bd;
+				text-decoration: none;
+			}
+
+			a:hover {
+				color: #4fc3f7;
+			}
+
+			a:active {
+				color: #039be5;
+			}
+
+			 .post-time {
+				font-size: .8em;
+				font-style: italic;
+			}
+
+			.post-body {
+				background-color: #eef2f4;
+				border-top: solid 1px #e1f5fe;
+				border-bottom: solid 1px #e1f5fe;
+			}
+
+			core-icon-button {
+				position: absolute;
+				top: 3px;
+				right: 3px;
+				fill: #636363;
+			}
+
+			:host([favorite]) core-icon-button {
+				fill: #da4336;
+			}
+
+			@media (min-width: 481px) {
+				:host {
+					font-size: 1.2rem;
+				}
+				.card-header h2 {
+					font-size: 1.5rem;
+				}
+			}
+		</style>
+
+		<div class="card-header" layout horizontal center>
+			<a href="http://instagram.com/{{post.user.username}}">
+				<img id="avatar" src="{{post.user.profile_picture}}" />
+			</a>
+			<h2>
+				<a href="http://instagram.com/{{post.user.username}}">
+					{{post.user.username}}
+				</a>
+			</h2>
+		</div>
+
+		<div id="media">
+			<a href="{{post.link}}" target="_blank"><img src="{{post.images.standard_resolution.url}}" class="instagram-post" /></a>
+		</div>
+
+		<p class="post-body">{{post.caption.text}}</p>
+		<p id="createdTime" class="post-time"></p>
+	</template>
+
+	<script>
+		window.Polymer('instagram-card', {
+			domReady: function () {
+				var createTime = window.parseInt(this.post.created_time, 10);
+				this.$.createdTime.innerHTML = moment(new Date(createTime)).format("MMM Do YY");
+			}
+		});
+	</script>
+</polymer-element>
