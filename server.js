@@ -2,6 +2,7 @@ var express = require('express'),
     Twit = require('twit'),
 	superagent = require('superagent'),
 	app = express(),
+	port = (/production/i).test(process.env.NODE_ENV) ? 80 : 8080,
 	twit,
 	server,
 	instagramEndpoints;
@@ -42,7 +43,11 @@ app.get('/connectors/twitter-activity', function (req, res) {
 });
 
 app.get('/connectors/instagram-activity', function (req, res) {
-	superagent.get(instagram.endpoints.search.replace(/\{\{userID}}/, instagram.userID).replace(/\{\{clientID}}/, instagram.clientID))
+	var instagramEndpoint = instagram.endpoints.search
+		.replace(/\{\{userID}}/, instagram.userID)
+		.replace(/\{\{clientID}}/, instagram.clientID);
+
+	superagent.get(instagramEndpoint)
 		.set({
 			Accept: 'application/json'
 		})
@@ -57,6 +62,6 @@ app.get('/connectors/instagram-activity', function (req, res) {
 		});
 });
 
-server = app.listen(80, function () {
+server = app.listen(port, function () {
 	console.log('Listening on port %d', server.address().port);
 });
