@@ -2,7 +2,7 @@ var express = require('express'),
     Twit = require('twit'),
 	superagent = require('superagent'),
 	app = express(),
-	port = (/production/i).test(process.env.NODE_ENV) ? 80 : 8080,
+	port = (/development/i).test(process.env.NODE_ENV) ? 8080 : 80,
 	twit,
 	server,
 	instagramEndpoints;
@@ -62,6 +62,6 @@ app.get('/connectors/instagram-activity', function (req, res) {
 		});
 });
 
-server = app.listen(port, function () {
+server = app.listen(80, function () {
 	console.log('Listening on port %d', server.address().port);
 });
