@@ -2,3 +2,4 @@
 .DS_Store
 *.sublime-*
 *.log
+node_modules
