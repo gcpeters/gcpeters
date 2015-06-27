@@ -7,10 +7,9 @@ var React = require('React'),
 	$ = require('jquery');
 
 module.exports = React.createClass({
-	// Fetch articles using jQuery
 	fetchDocument: function () {
 		$.ajax({
-			url: this.props.slug,
+			url: ['/api/document/slug', this.props.slug].join('/',
 			dataType: 'json',
 			cache: false,
 			success: this.onDocumentReady,
@@ -21,17 +20,15 @@ module.exports = React.createClass({
 		});
 	},
 
-	// When we get new data, update the components state, triggering a render
 	onDocumentReady: function (document) {
 		this.setState(document);
 	},
 
-	// Output the article list
 	render: function () {
 		var state = this.state;
 
 		return (
-			<div className="gcp-document">
+			<div className="gcp-docjument">
 				<h2>{state.title}</h2>
 				<h4>{state.tagLine}</h4>
 				<div className="gcp-document-body">{state.body}</div>
@@ -39,7 +36,6 @@ module.exports = React.createClass({
 		);
 	},
 
-	// Set defaults
 	getInitialState: function() {
 		return {
 			title: '',
